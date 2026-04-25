@@ -6,7 +6,7 @@ import urllib
 from io import BytesIO
 
 HOST = "0.0.0.0"
-PORT = 8086
+PORT = 999
 MAX_POINTS = 100
 
 SERVERS = [
